@@ -1,4 +1,4 @@
-# Configurar o GCC/GDB para compilar arquivos C/C++
+# Configurar o GCC para compilar arquivos C/C++
 
 Se você instalou o Linux Mint, muito provavelmente pode ter enfrentado problemas ao criar algoritmos em C/C++.</br></br>
 A distribuição não acompanha as bibliotecas de desenvolvimento, afinal seu foco são usuários iniciantes e ela dá ênfase à loja de programas.</br></br>
